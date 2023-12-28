@@ -1,0 +1,25 @@
+languages:{
+Html 
+CSS
+JavaScript
+} for frontend
+
+frameworks:{
+    node
+    express
+    bootstrap
+} for backend and styling
+
+templates:{
+    ejs
+} for data transfer
+dataBase:{
+    mongoose
+    mongodb
+} for database
+
+extras:{
+    axios
+    nodemom
+    dotenv
+} for conenction and avoid reloding and config
